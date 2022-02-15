@@ -1,1 +1,3 @@
-- [🏠 **Home**](/)
+- [🏠 **Home**](README.md)
+- [🤹 **Lecture Note**](lec.md)
+- [📒 **Homeworks**](hw.md)
