@@ -6,6 +6,7 @@
 
 ## Problem 1
 
-> Let $(X,Y)$ be jointly Gaussian
+![image](https://user-images.githubusercontent.com/29009898/154049289-3e314239-d283-40e1-badf-33a58f4aacce.png)
 
-### a
+### (a)
+
