@@ -10,3 +10,8 @@
 
 ### (a)
 
+f [^mmse]
+
+
+
+[^mmse]: https://www.probabilitycourse.com/chapter9/9_1_6_linear_MMSE_estimat_of_random_vars.php
